@@ -3,4 +3,4 @@
 
 This repository is for learning purposes only.
 
-Solutions to exercises in La Piscine
+Solutions to exercises in La Piscine..
